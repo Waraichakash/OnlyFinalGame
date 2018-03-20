@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/mainMenu.unity
+    guid: 78532ce8149df4a4daa006d518482b54
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/countdownScene.unity
+    guid: 3c4161ae34d5749b6a249fe66041a1f5
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/scene1.unity
+    guid: 7781abba0c80c457ba9105c454f1159a
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/scene2.unity
+    guid: e69b245a33cf34b118720de829390a54
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/GameOver.unity
+    guid: 49cefa2ad59cb46bc8f17acd6e78200c
+  - enabled: 1
+    path: Assets/CoOpTankGame/scenes/Won.unity
+    guid: d83772cacc8bf4e97b996d0267441ff8
